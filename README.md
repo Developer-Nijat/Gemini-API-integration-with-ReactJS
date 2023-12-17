@@ -21,9 +21,13 @@ Developed by: Nijat Aliyev
 
 Follow us:
 YouTube: youtube.com/@developer_nijat
+
 Telegram: t.me/js_az
+
 TikTok: tiktok.com/@developer.nijat
+
 Facebook: fb.com/groups/1298499510834490
+
 Website: aliyev.dev
 
 
